@@ -1,6 +1,7 @@
 version: 0.2
 
 env:
+  variables:
     DOCKER_REGISTRY_USERNAME: sahera1987143 
     DOCKER_REGISTRY_PASSWORD: Amaz0n@123 
     DOCKER_REGISTRY_URL: docker.io 
